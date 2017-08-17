@@ -1,0 +1,24 @@
+{
+  "name": "node-red-contrib-foo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red": {
+    "nodes": {
+      "foo-case": "node.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nori-nori/node-red-contrib-foo.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nori-nori/node-red-contrib-foo/issues"
+  },
+  "homepage": "https://github.com/nori-nori/node-red-contrib-foo#readme"
+}
